@@ -1,10 +1,7 @@
 // odd, 单日
-const SingleDay = 'qq1994769112-my.sharepoint.com'
+const SingleDay = 'xxxx-my.sharepoint.com'
 // even, 双日
-const DoubleDay = 'qq1994769112-my.sharepoint.com'
-
-//const SingleDay = 'https://153xxxxx0.cn-hongkong.fc.aliyuncs.com/2016-08-15/proxy/onedrive/xxx/'
-//const DoubleDay = 'https://153xxxxx0.cn-hongkong.fc.aliyuncs.com/2016-08-15/proxy/onedrive/xxx/'
+const DoubleDay = 'xxxx-my.sharepoint.com'
 
 // CF proxy all, 一切给CF代理，true/false
 const CFproxy = true
